@@ -244,8 +244,7 @@ The Challenge Rating for your roll is the target’s defense score. If you succe
 
 **Exceptional Success**
 
-If your attack roll exceeds the target’s defense by 10 or more, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane, your attack roll must
-equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target.
+If your attack roll exceeds the target’s defense by 10 or more, you may apply one bane of a Power Level less than or equal to the attribute you used for the attack. In order to apply a bane the bane must be of the same attack type as your roll and your attack roll must equal or exceed the appropriate defense for that bane. If your attack targeted multiple foes, you may apply the bane to each qualifying target.
 
 #### Make a Bane Attack
 
